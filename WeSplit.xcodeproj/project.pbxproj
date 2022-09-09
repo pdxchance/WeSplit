@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CE21356028CB5E9B00DBAA21 /* TemperatureCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE21355F28CB5E9B00DBAA21 /* TemperatureCalculatorView.swift */; };
+		CE21356228CB718A00DBAA21 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE21356128CB718A00DBAA21 /* MainView.swift */; };
 		CE27671628C88D94006BC65C /* WeSplitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE27671528C88D94006BC65C /* WeSplitApp.swift */; };
 		CE27671828C88D94006BC65C /* TipCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE27671728C88D94006BC65C /* TipCalculatorView.swift */; };
 		CE27671A28C88D97006BC65C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE27671928C88D97006BC65C /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		CE21355F28CB5E9B00DBAA21 /* TemperatureCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperatureCalculatorView.swift; sourceTree = "<group>"; };
+		CE21356128CB718A00DBAA21 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		CE27671228C88D94006BC65C /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE27671528C88D94006BC65C /* WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitApp.swift; sourceTree = "<group>"; };
 		CE27671728C88D94006BC65C /* TipCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				CE21355F28CB5E9B00DBAA21 /* TemperatureCalculatorView.swift */,
 				CE27671928C88D97006BC65C /* Assets.xcassets */,
 				CE27671B28C88D97006BC65C /* Preview Content */,
+				CE21356128CB718A00DBAA21 /* MainView.swift */,
 			);
 			path = WeSplit;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE27671828C88D94006BC65C /* TipCalculatorView.swift in Sources */,
+				CE21356228CB718A00DBAA21 /* MainView.swift in Sources */,
 				CE21356028CB5E9B00DBAA21 /* TemperatureCalculatorView.swift in Sources */,
 				CE27671628C88D94006BC65C /* WeSplitApp.swift in Sources */,
 			);
